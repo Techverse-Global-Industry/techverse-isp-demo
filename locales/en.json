@@ -1,0 +1,41 @@
+{
+  "banner": "TECHVERSE CONCEPT DEMO · Prepared for discussion · Not commissioned by B NET",
+  "brand": {
+    "title": "ISP Digital Platform",
+    "byline": "by TechVerse Global"
+  },
+  "nav": {
+    "home": "Home",
+    "plans": "Plans",
+    "coverage": "Coverage",
+    "installation": "Installation",
+    "support": "Support",
+    "portal": "Portal",
+    "staffOps": "Staff Ops Demo",
+    "workspace": "Workspace",
+    "staffOpsCta": "Staff Operations Demo",
+    "customerPortal": "Customer Portal",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "languageLabel": "Language",
+    "switchToFrench": "Switch to French",
+    "switchToEnglish": "Switch to English"
+  },
+  "footer": {
+    "product": "Product",
+    "experience": "Experience",
+    "company": "Company",
+    "customerPlatform": "Customer Platform",
+    "businessAccounts": "Business Accounts",
+    "faqs": "FAQs",
+    "about": "About TechVerse",
+    "serviceAreas": "Service Areas",
+    "networkHealth": "Network Health",
+    "demoOverview": "Demo Overview",
+    "description": "Connected internet experiences for discovery, service activation, support, and the operations teams behind the network.",
+    "demoReady": "Demo ready",
+    "conceptOnly": "Concept only",
+    "copyright": "© 2026 TechVerse Global. All rights reserved.",
+    "disclaimer": "Demonstration interface only. Sample data, package names and operational metrics are illustrative and should be validated before production rollout."
+  }
+}

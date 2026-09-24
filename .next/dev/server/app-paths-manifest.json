@@ -1,0 +1,5 @@
+{
+  "/install/page": "app/install/page.js",
+  "/operations/page": "app/operations/page.js",
+  "/page": "app/page.js"
+}

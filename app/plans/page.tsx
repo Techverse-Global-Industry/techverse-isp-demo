@@ -1,0 +1,6 @@
+import { PlanCard } from "@/components/PlanCard";
+import { SectionTitle } from "@/components/SectionTitle";
+
+export default function PlansPage() {
+  return <main className="section-shell py-14"><SectionTitle eyebrow="Plans" title="Choose the service that fits the customer" text="A real ISP would connect this page to current commercial packages, coverage rules and availability." /><div className="mt-10 grid gap-5 md:grid-cols-3"><PlanCard name="Home Plus" speed="20 Mbps" price="₦18,000" tag="Home" features={["Unlimited browsing","Standard support","Wi‑Fi installation"]}/><PlanCard name="Business Pro" speed="50 Mbps" price="₦45,000" tag="Business" features={["Priority support","Static IP option","Service dashboard"]}/><PlanCard name="Business Max" speed="100 Mbps" price="₦85,000" tag="Business" features={["Priority support","Multi-site readiness","Performance reporting"]}/></div><div className="card mt-8 p-6"><h3 className="text-lg font-black">What changes in production?</h3><p className="mt-2 text-sm leading-6 text-slate-600">Connect plans to the ISP's actual tariff catalogue, eligibility rules, coverage/serviceability logic, installation fees and payment provider. The UI is already structured for those integrations.</p></div></main>;
+}
